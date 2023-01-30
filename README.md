@@ -3,6 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkozdev&label=Profile%20views&color=0e75b6&style=flat" alt="fkozdev" /> </p>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://tryhackme.com/p/fkozdev">
+    <img src="https://img.shields.io/badge/TryHackMe-green?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"/>
+  </a>
+
+  <a href="https://hackerone.com/fkozdev?type=user">
+    <img src="https://img.shields.io/badge/HackerOne-red?style=for-the-badge&logo=HackerOne&logoColor=white" alt="HackerOne Badge"/>
+  </a>
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fkozdev" alt="fkozdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fkozdev" target="blank"><img src="https://img.shields.io/twitter/follow/fkozdev?logo=twitter&style=for-the-badge" alt="fkozdev" /></a> </p>
