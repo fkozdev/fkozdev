@@ -7,22 +7,22 @@
 
 <p align="left"> <a href="https://twitter.com/fkozdev" target="blank"><img src="https://img.shields.io/twitter/follow/fkozdev?logo=twitter&style=for-the-badge" alt="fkozdev" /></a> </p>
 
-- 💻 I'm currently working on [SuperiorWare](superiorware.org)
+- 💻 I'm currently working on [MonaxterStudio](https://github.com/monaxterstudio)
 
-- 👨‍💻 All of my projects are available at [github.com/fkozdev](github.com/fkozdev)
+- 👨‍💻 All of my projects are available at [github.com/fkozdev](https://github.com/fkozdev)
 
-- 📝 I regularly write articles on [blog.superiorware.org/](blog.superiorware.org/)
+- 📝 I regularly write articles on [fkozdev.com/](https://fkozdev.com/)
 
 - 📩 How to reach me **fkozdev@gmail.com**
 
-- 📄 Know about my experiences [instagram.com/fkozdev](instagram.com/fkozdev)
+- 📄 Know about my experiences [instagram.com/fkozdev](https://instagram.com/fkozdev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fkozdev" height="30" width="40" /></a>
 <a href="https://dev.to/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fkozdev" height="30" width="40" /></a>
 <a href="https://twitter.com/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fkozdev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fkozdev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21111122/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fkozdev" height="30" width="40" /></a>
 <a href="https://instagram.com/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fkozdev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fkozdev" height="30" width="40" /></a>
 </p>
