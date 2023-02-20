@@ -33,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/fkozdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fkozdev"/></a><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fkozdev&show_icons=true&locale=en&layout=compact" alt="fkozdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuekihigh&show_icons=true&locale=en&layout=compact" alt="fuekihigh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fkozdev&show_icons=true&locale=en" alt="fkozdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuekihigh&show_icons=true&locale=en" alt="fuekihigh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fkozdev&" alt="fkozdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuekihigh&" alt="fuekihigh" /></p>
