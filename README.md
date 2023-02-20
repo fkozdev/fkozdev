@@ -17,14 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fkozdev" height="30" width="40" /></a>
-<a href="https://dev.to/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fkozdev" height="30" width="40" /></a>
-<a href="https://twitter.com/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fkozdev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21111122/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fkozdev" height="30" width="40" /></a>
-<a href="https://instagram.com/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fkozdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fkozdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fkozdev" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/fkozdev"><img src="https://img.shields.io/badge/TryHackMe-green?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"/></a>
-<a href="https://hackerone.com/fkozdev?type=user"><img src="https://img.shields.io/badge/HackerOne-red?style=for-the-badge&logo=HackerOne&logoColor=white" alt="HackerOne Badge"/></a>
+<a href="https://twitter.com/fuekihigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuekihigh" height="30" width="40" /></a>
+<a href="https://instagram.com/fuekihigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuekihigh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/fuekihigh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fuekihigh" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/fuekihigh"><img src="https://img.shields.io/badge/TryHackMe-green?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge"/></a>
+<a href="https://hackerone.com/fuekihigh?type=user"><img src="https://img.shields.io/badge/HackerOne-red?style=for-the-badge&logo=HackerOne&logoColor=white" alt="HackerOne Badge"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
