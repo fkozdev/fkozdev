@@ -1,4 +1,4 @@
-<h1 align="center">Hi👍🏻, I'm Furkan Kerem Özdemir</h1>
+<h1 align="center">Hi👍🏻, I'm FuekiHigh</h1>
 <h3 align="center">I'm Cyber ​​Security Specialist And Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkozdev&label=Profile%20views&color=0e75b6&style=flat" alt="fkozdev" /> </p>
@@ -9,13 +9,11 @@
 
 - 💻 I'm currently working on [MonaxterStudio](https://github.com/monaxterstudio)
 
-- 👨‍💻 All of my projects are available at [github.com/fkozdev](https://github.com/fkozdev)
+- 👨‍💻 All of my projects are available at [github.com/fuekihigh](https://github.com/fuekihigh)
 
-- 📝 I regularly write articles on [fkozdev.com/](https://fkozdev.com/)
+- 📩 How to reach me **fuekihigh@gmail.com | fuekihigh@proton.me**
 
-- 📩 How to reach me **fkozdev@gmail.com**
-
-- 📄 Know about my experiences [instagram.com/fkozdev](https://instagram.com/fkozdev)
+- 📄 Know about my experiences [instagram.com/fuekihigh](https://instagram.com/fuekihigh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
