@@ -1,11 +1,11 @@
 <h1 align="center">Hi👍🏻, I'm FuekiHigh</h1>
 <h3 align="center">I'm Cyber ​​Security Specialist And Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fkozdev&label=Profile%20views&color=0e75b6&style=flat" alt="fkozdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuekihigh&label=Profile%20views&color=0e75b6&style=flat" alt="fuekihigh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fkozdev" alt="fkozdev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuekihigh" alt="fuekihigh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fkozdev" target="blank"><img src="https://img.shields.io/twitter/follow/fkozdev?logo=twitter&style=for-the-badge" alt="fkozdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fuekihigh" target="blank"><img src="https://img.shields.io/twitter/follow/fuekihigh?logo=twitter&style=for-the-badge" alt="fuekihigh" /></a> </p>
 
 - 💻 I'm currently working on [MonaxterStudio](https://github.com/monaxterstudio)
 
